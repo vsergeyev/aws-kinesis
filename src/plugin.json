@@ -1,0 +1,41 @@
+{
+  "type": "datasource",
+  "name": "aws-kinesis",
+  "id": "vsergeyev-aws-kinesis",
+  "metrics": true,
+  "backend": true,
+  "executable": "gpx_aws-kinesis",
+  "info": {
+    "description": "AWS Kinesis monitoring plugin",
+    "author": {
+      "name": "Volodymyr Sergeyev",
+      "url": "https://github.com/vsergeyev/"
+    },
+    "keywords": [
+      "aws",
+      "kinesis",
+      "monitoring"
+    ],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/grafana/simple-datasource-backend"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/grafana/simple-datasource-backend/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaVersion": "7.x.x",
+    "plugins": []
+  }
+}
