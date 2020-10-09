@@ -24,6 +24,7 @@ Additional data about Kinesis service state retrieved with:
 
 This plugin is my pet project, I do in free time.
 
-If you have suggestions to improve - please post an issue or make a pull request.
+If you have suggestions to improve - please make a pull request or post an issue:
+https://github.com/vsergeyev/aws-kinesis/issues
 
 Thank you!
